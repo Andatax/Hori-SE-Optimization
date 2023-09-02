@@ -20,4 +20,3 @@ Added structure and sections on the CSS file to easily identify selectors.
 
 Created a README file explaining my process behind optimizing this website application.
 
-##This repository is a search engine web optimization of a Marketing company website.
