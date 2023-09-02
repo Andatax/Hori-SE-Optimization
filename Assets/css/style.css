@@ -136,7 +136,7 @@ p {
 	margin: 10px auto;
 	max-width: 150px;
 }
-/*--------------------------------------------- Main body "h2" headers style --------------------------------------------- */
+/*--------------------------------------------- Main body Section headers style --------------------------------------------- */
 .search-engine-optimization {
 	margin-bottom: 20px;
 	padding: 50px;
@@ -198,6 +198,6 @@ p {
 	text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
 	font-size: 20px;
 }
